@@ -1,0 +1,3 @@
+[Project]
+Name=test_memfd_exec
+Manager=KDevCMakeManager
